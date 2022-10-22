@@ -28,7 +28,7 @@
 
 #### Test problem: Pressure vessel design
 
-![](C:\Users\dell\Desktop\研究生\个人算法主页\Grey Wolf Optimizer\Pressure vessel design.png)
+![](https://github.com/Xavier-MaYiMing/Chaotic-Particle-Swarm-Optimization/blob/main/Pressure%20vessel%20design.png)
 $$
 \text{min}\ f(x)=0.6224x_1x_3x_4+1.7781x_2x_3^2+3.1661x_1^2x_4+19.84x_1^2x_3,\\
 \text{s.t.} -x_1+0.0193x_3\leq0,\\
@@ -63,11 +63,11 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![PSO_CPSO comparison](C:\Users\dell\Desktop\研究生\个人算法主页\Chaotic Particle Swarm Optimization\PSO_CPSO comparison.png)
+![](https://github.com/Xavier-MaYiMing/Chaotic-Particle-Swarm-Optimization/blob/main/PSO_CPSO%20comparison.png)
 
 This comparative figure indicates that the CPSO finds a better solution compared to the PSO.
 
-![Convergence Curve](C:\Users\dell\Desktop\研究生\个人算法主页\Chaotic Particle Swarm Optimization\Convergence Curve.png)
+![](https://github.com/Xavier-MaYiMing/Chaotic-Particle-Swarm-Optimization/blob/main/Convergence%20Curve.png)
 
 
 
